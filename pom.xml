@@ -4,7 +4,7 @@
 	<groupId>com.devops.demo</groupId>
 	<artifactId>login</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-RELEASE</version>
 	<name>login</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
