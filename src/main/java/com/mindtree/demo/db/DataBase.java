@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 
-
+//test
 public class DataBase {
 
 	private static DataBase db;
