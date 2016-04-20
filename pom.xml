@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 	<version>1.0.0-RELEASE</version>
 	<name>login</name>
-	<url>http://localhost:8082/artifactory/list/Maventest</url>
+	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
